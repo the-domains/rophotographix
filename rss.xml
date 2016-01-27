@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Robert Orcutt Photography]]></title>
+        <description><![CDATA[Robert Orcutt Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 14:01:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Good morning world.  Welcome to the Grid.  Let's give this thing a proper test drive.</p>]]></description>
+            <link>undefinedf4d58246-4ab1-4db3-8c21-15264e07ce99/index.html</link>
+            <guid isPermaLink="false">f4d58246-4ab1-4db3-8c21-15264e07ce99</guid>
+            <pubDate>Wed, 27 Jan 2016 14:01:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
