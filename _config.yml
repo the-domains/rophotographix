@@ -1,7 +1,7 @@
 name: rophotographix
 favicon: null
 layout_spectrum: 0.6490852541755885
-typography_spectrum: 0.707552965497598
+typography_spectrum: 0.58699
 title: Robert Orcutt Photography
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.2430231086909771
-  lightness: 0.7459589415229857
-  saturation: 0.9294342075008899
-  rhythmicContrast: 0.6476734783500433
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
